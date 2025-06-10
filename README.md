@@ -2,6 +2,10 @@
 
 This project implements a complete front-end test automation suite for a news website using [Playwright](https://playwright.dev). The goal is to ensure the reliability, accessibility, responsiveness, and user interface integrity of the site.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28f56965-be4a-413c-9f21-a552e780ed9a" alt="cypress" width="400" />
+</p>
+
 ---
 
 ## 📌 Project Objectives
@@ -57,7 +61,7 @@ This project implements a complete front-end test automation suite for a news we
 ```yaml
 news-site-tests/
 │
-├── tests/ # Test files
+├── tests/
 │ ├── home.spec.ts
 │ ├── search.spec.ts
 │ ├── article.spec.ts
@@ -66,20 +70,16 @@ news-site-tests/
 │ ├── accessibility.spec.ts
 │ └── pagination.spec.ts
 │
-├── .github/workflows/ # GitHub Actions config
+├── .github/workflows/
 │ └── ci.yml
 │
-├── package.json # Dependencies and scripts
-├── README.md # Project documentation
-
-yaml
-Copiar
-Editar
+├── package.json
+├── README.md
 ```
 
 ## 📦 Installation & Setup
 
-# Clone the repository
+#### Clone the repository
 ```bash
 git clone https://github.com/yourusername/news-site-tests.git
 cd news-site-tests
