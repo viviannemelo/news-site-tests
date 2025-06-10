@@ -2,6 +2,11 @@
 
 This project implements a complete front-end test automation suite for a news website using [Playwright](https://playwright.dev). The goal is to ensure the reliability, accessibility, responsiveness, and user interface integrity of the site.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5340c9d0-248e-49a7-868e-e15a47244b76" alt="news" width="400" />
+</p>
+
+
 ---
 
 ## 📌 Project Objectives
